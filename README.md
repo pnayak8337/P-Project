@@ -1,4 +1,4 @@
 # P-Project
-This is my first project.
+This is my Git first project.
 <br>
 I am Pratikshya Nayak.
